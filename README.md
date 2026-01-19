@@ -45,6 +45,3 @@ This notebook uses [Ollama](https://ollama.com/) for local inference to ensure r
 3.  **Run the Notebook:**
     Launch `EMNLP25.ipynb` to reproduce the visualization.
 
----
-**Author:** [Your Name]  
-*Research Intern Applicant, Summer 2026*
